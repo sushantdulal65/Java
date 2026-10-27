@@ -1,1 +1,1 @@
-Testing GitHub Pull Request workflow 
+Testing GitHub Pull Request workflow for Java projects
